@@ -1,6 +1,6 @@
 # Curso de PWA con React en Platzi
 
-![Captura de Recetas Tomaco](.readme-static/captura.png)
+![Captura de Recetas Tomaco](.readme-static/RecetasSnapshot.png)
 
 Este repositorio contiene todo el contenido del curso a medida que construimos una app para ver recetas con la API de MealDB.
 
