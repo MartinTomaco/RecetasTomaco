@@ -2,9 +2,7 @@
 
 ![Captura de Recetas Tomaco](.readme-static/RecetasSnapshot.png)
 
-Este repositorio contiene todo el contenido del curso a medida que construimos una app para ver recetas con la API de MealDB.
-
-Hay un branch por clase para que puedas navegar con facilidad el curso.
+App a modo de ejemplo para ver recetas de cocina.
 
 ## Scripts
 
